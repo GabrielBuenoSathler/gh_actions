@@ -7,6 +7,6 @@ jobs:
       - name: Print greeting
         run: echo "Hello Github"
       - name: Sg
-        run: echo "Ola segunda vez amigo
+        run: echo "Ola segunda vez amigo"
       
       
